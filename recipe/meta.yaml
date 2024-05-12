@@ -34,7 +34,7 @@ about:
   license_file: LICENSE
   license: BSD-3-Clause
   license_family: BSD
-  summary: 'Implementation of the old session system in Flask'
+  summary: Implementation of the old session system in Flask
   dev_url: https://github.com/mitsuhiko/flask-oldsessions
 
 extra:
